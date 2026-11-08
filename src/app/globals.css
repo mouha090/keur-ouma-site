@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@import "../components/rituel/rituel.css";
+@import "../components/hero-image/hero-image.css";
+@import "../site/site.css";
+
+@theme {
+  --color-ivoire: #F7F3EB;
+  --color-champagne: #E8D7BC;
+  --color-brun: #291B16;
+  --color-or: #C5A46D;
+  --color-rose: #D79AAB;
+  --font-display: "Cormorant Garamond", "Cormorant", Georgia, serif;
+  --font-sans: "Jost", system-ui, sans-serif;
+}
+
+html { -webkit-text-size-adjust: 100%; }
